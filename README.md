@@ -1,2 +1,2 @@
 # React chat
-A little react chat ap
+A little react chat app
