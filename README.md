@@ -1,2 +1,2 @@
-# game
-A react online game
+# React chat
+A little react chat app
